@@ -1,7 +1,7 @@
 ﻿# OneNote Exporter  
 **Break free from OneNote.**
 
-![Breaking Free from OneNote](./assets/break-free.png)
+<img width="487" height="401" alt="break-free" src="https://github.com/user-attachments/assets/716645e5-ba67-419d-9945-5d80b0b48e1d" />
 
 ---
 
@@ -59,15 +59,15 @@ Each page is exported as a PDF file.
 
 *Main window*
 
-![Main Window](./assets/main-form.png)
+<img width="413" height="370" alt="main-form" src="https://github.com/user-attachments/assets/008ad029-2ec3-4c3a-8bcd-fd3f4aa3332d" />
 
 *Export progress*
 
-![Export Progress](./assets/exporting-form.png)
+<img width="582" height="187" alt="exporting-form" src="https://github.com/user-attachments/assets/1d60ec13-15ad-4aea-b3cc-7d02436b0416" />
 
 *Done!*
 
-![Export Complete](./assets/export-done.png)
+<img width="314" height="217" alt="export-done" src="https://github.com/user-attachments/assets/3ba8f034-2795-4600-a921-a1cb2cf94674" />
 
 ---
 
