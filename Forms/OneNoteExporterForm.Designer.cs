@@ -66,7 +66,6 @@ namespace OneNoteExporter.Forms
             textBoxExportPath.Name = "textBoxExportPath";
             textBoxExportPath.Size = new Size(299, 23);
             textBoxExportPath.TabIndex = 2;
-            textBoxExportPath.Text = "C:\\Users\\jakef\\Documents";
             // 
             // buttonBrowseFiles
             // 

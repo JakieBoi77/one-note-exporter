@@ -81,7 +81,7 @@ namespace OneNoteExporter.Forms
                 {
                     OpenOneNote();
                     LoadNotebooks();
-                    
+
                 }
                 return false;
             }
@@ -224,6 +224,8 @@ namespace OneNoteExporter.Forms
 
         private void OneNoteExporterForm_Load(object sender, EventArgs e)
         {
+            textBoxExportPath.Text = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+
             if (EnsureOneNoteReady())
             {
                 LoadNotebooks();
